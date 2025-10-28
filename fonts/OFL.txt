@@ -1,0 +1,3 @@
+The Anton font is © 2016 The Anton Project Authors
+and is licensed under the SIL Open Font License 1.1.
+See `assets/fonts/OFL.txt` or visit http://scripts.sil.org/OFL
